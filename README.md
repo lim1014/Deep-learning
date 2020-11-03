@@ -6,5 +6,3 @@
 ## 2. RNN Example
 - stomach cancer
 
-## 3. GAN Example
-- stomach cancer null
